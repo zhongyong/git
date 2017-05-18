@@ -1171,7 +1171,19 @@ http://bm.fcet.cn/index.php
 整理资料出错的原因是数字后面有空的字符串。
 500W支付数据跑完后。
 
-
+2017年5月18日 16:47:14
+delete IOE
+数据库查询，加1一个not null和不加区别大，针对，一些sql局域。（fittler）
+去除前5分钟的。
+长虹通行证基础数据70万基础数据。
+写ppt。
+1.clear keep_alive are you sure?
+2.nginx for cpu  high?
+高可用的性能测试，需要具体的细节指标。
+下次写脚本的时候，加上分类和序号便于排序和查找。
+Strace诊断linux的相关性能问题。
+maven的工程比如spring-data-redis需要添加一些pom的配置来解决问题。
+git
 
 
 
